@@ -56,18 +56,24 @@ for (i=1; i<=blockValue; i++) {
 	${colorResult}">${s3}</div>`    
 }    	
 container.innerHTML = s;     	
-}     
+} 
+
 ***
+
 ### Work experience
 I haven't commercial development experience, but I took part in development of mobile app. My task was to write a javascript code section for swiping product cards. I have solved this problem, but soon project was closed. Also I have experience in creation of web sites: I wrote landing pages, worked with CMS. Now, I am here to take a new experience & somewhen deliver it to next generation...
+
 ***
+
 ### Education
 | Years | Institution | Specialization |   
 |-------|-------------|----------------|
 | 2003-2008 | BSEU | Accounting, analysis and audit in industry |    
 | 2020 | Belhard Academy | Basics of web application development |    
 | 2021 | Belhard Academy | HTML5, Javascript & actual Front End |
+
 ***
+
 ### English   
 I graduated school with advanced study of English, and then studied english about two years in university. At that moment my english was nearby B1. now it is important for me to return to this level.
 
