@@ -66,11 +66,10 @@ I haven't commercial development experience, but I took part in development of m
 ***
 
 ### Education
-| Years | Institution | Specialization |   
-|-------|-------------|----------------|
-| 2003-2008 | BSEU | Accounting, analysis and audit in industry |    
-| 2020 | Belhard Academy | Basics of web application development |    
-| 2021 | Belhard Academy | HTML5, Javascript & actual Front End |
+
++ 2003-2008  BSEU, Accounting, analysis and audit in industry    
++      2020  Belhard Academy, Basics of web application development     
++      2021  Belhard Academy, HTML5, Javascript & actual Front End 
 
 ***
 
