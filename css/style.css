@@ -1,0 +1,209 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #D2DCE5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+header a {
+    color: #5D6C79;
+}
+
+footer {
+    background-color: #D2DCE5;
+    grid-column: 1/3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+aside {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+main {
+    background-color: #466A8A;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+    color: white;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+header {
+    grid-column: 1/3;
+}
+
+.menu-list {
+    display: inline;
+}
+
+th {
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    font-size: 18px;
+}
+
+.ava {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.figure-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.rss {
+    width: 100px;
+}
+
+.github {
+    width: 55px;
+}
+
+.c1,
+.s1,
+.ab1,
+.e1,
+.eng1,
+.w1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.c1__h1,
+.w1__h3,
+.eng1__h3,
+.e1__h3,
+.ab1__h3,
+.s1__h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.c1__h1__parag,
+.ab1__h3__parag,
+.e1__h3__table,
+.eng1__h3__parag,
+.w1__h3__parag {
+    padding: 0px 100px 0px 100px;
+    text-align: justify;
+}
+
+.c1__h1__parag__blockquote {
+    padding: 0px 100px 0px 100px;
+}
+
+.aside-prof,
+.aside-prof__h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.aside-prof__h2 {
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.skills,
+.mycontacts {
+    padding-top: 50px;
+    line-height: 30px;
+}
+
+.skills__name,
+.mycontacts__text {
+    padding-left: 25px;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 16px;
+}
+
+.html,
+.adress {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+
+/*.htm, .css {
+	color: green;
+}
+.scss, .js, .gh, .bem {
+	color: yellow;
+} 
+.react {
+	color: red;
+}*/
+
+h1 {
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 70px;
+    line-height: 90px;
+    padding-left: 20px;
+}
+
+.rss-school-logo,
+.year,
+.github-logo {
+    display: flex;
+    align-items: center;
+}
+
+.year {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+#surname {
+    padding-top: 20px;
+}
+
+p.c1__h1__parag,
+p.ab1__h3__parag,
+p.eng1__h3__parag,
+p.w1__h3__parag {
+    text-indent: 40px;
+}
+
+.c1__h1__parag__blockquote a {
+    color: #B1B7BC;
+    font-weight: bold;
+}
+
+.c1__h1__parag__blockquote a:hover {
+    color: white;
+    font-size: 20px;
+}
